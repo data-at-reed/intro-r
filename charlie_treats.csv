@@ -1,11 +1,11 @@
 type,brand,flavor,price,quantity,desire,thrown_out,long_lasting
 dried jerky strip,unknown,beef,1.5,1,5,no,Y
-bully stick,unknown,beef,3,1,4,sometimes,Y
+bully stick,unknown,beef,3,1,5,sometimes,Y
 dental chew,Whimzee,other,14,12,3,sometimes,Y
 fake rawhide,No Hide,venison,5.5,1,3,yes,Y
 bone shaped,Nutri Source,salmon,4.99,30,2,no,N
-fake rawhide,No Hide,beef,5.5,1,3,yes,Y
-fake rawhide,No Hide,salmon,6.95,1,3,yes,Y
+fake rawhide,No Hide,beef,5.5,1,4,yes,Y
+fake rawhide,No Hide,salmon,6.95,1,4,yes,Y
 trainers,Nulo,beef,10,50,2,no,N
 trainers,Nulo,venison,10,50,1,no,N
 fake jerky,Nulo,beef,12,8,5,no,N
@@ -26,7 +26,7 @@ jerky stick,Real Meat,venison,7,1,3,no,N
 dental chew,Greenies,other,12,12,1,yes,Y
 herring,Icelandic,fish,18,25,5,no,N
 capelin,Icelandic,fish,18,25,4,yes,N
-freeze dried,unknown,salmon,14.5,30,2,yes,N
+freeze dried,unknown,salmon,14.5,30,3,yes,N
 jerky stick,Trader Joes,chicken,6.99,4,5,no,Y
 freeze dried,unknown,duck,15,30,1,yes,N
 string cheese,unknown,cheese,8,16,5,no,N
