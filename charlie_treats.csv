@@ -3,18 +3,18 @@ dried jerky strip,unknown,beef,1.5,1,5,no,Y
 bully stick,unknown,beef,3,1,5,sometimes,Y
 dental chew,Whimzee,other,14,12,3,sometimes,Y
 fake rawhide,No Hide,venison,5.5,1,3,yes,Y
-bone shaped,Nutri Source,salmon,4.99,30,2,no,N
+bone shaped,Nutri Source,fish,4.99,30,2,no,N
 fake rawhide,No Hide,beef,5.5,1,4,yes,Y
-fake rawhide,No Hide,salmon,6.95,1,4,yes,Y
+fake rawhide,No Hide,fish,6.95,1,4,yes,Y
 trainers,Nulo,beef,10,50,2,no,N
 trainers,Nulo,venison,10,50,1,no,N
 fake jerky,Nulo,beef,12,8,5,no,N
 fake jerky,Nulo,venison,14,8,4,no,N
 hot dog,unknown,beef,6,8,5,no,N
-fake jerky,Nulo,salmon,14,8,5,no,N
-trainers,Nutri Source,salmon,12,50,2,no,N
+fake jerky,Nulo,fish,14,8,5,no,N
+trainers,Nutri Source,fish,12,50,2,no,N
 skinny fake rawhide,No Hide,beef,9,10,4,sometimes,Y
-skinny fake rawhide,No Hide,salmon,11,10,5,sometimes,Y
+skinny fake rawhide,No Hide,fish,11,10,5,sometimes,Y
 fake jerky,Nulo,duck,12,8,4,no,N
 trainers,Nulo,duck,12,50,1,no,N
 tooth brush thing,unknown,other,4,1,3,yes,Y
@@ -26,7 +26,7 @@ jerky stick,Real Meat,venison,7,1,3,no,N
 dental chew,Greenies,other,12,12,1,yes,Y
 herring,Icelandic,fish,18,25,5,no,N
 capelin,Icelandic,fish,18,25,4,yes,N
-freeze dried,unknown,salmon,14.5,30,3,yes,N
+freeze dried,unknown,fish,14.5,30,3,yes,N
 jerky stick,Trader Joes,chicken,6.99,4,5,no,Y
 freeze dried,unknown,duck,15,30,1,yes,N
 string cheese,unknown,cheese,8,16,5,no,N
